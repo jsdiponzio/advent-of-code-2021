@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    FILE *list = fopen("day 1a.txt", "r");
+    FILE *list = fopen("day 1.txt", "r");
     if (list == NULL)
     {
         return 1;
